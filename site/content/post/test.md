@@ -5,6 +5,4 @@ description: this is netlify com test
 ---
 画像を添付
 
-
-
 ![](/img/about-direct-sourcing.jpg)
