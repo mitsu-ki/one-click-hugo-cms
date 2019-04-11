@@ -1,14 +1,10 @@
 ---
 title: test
-date: 2019-04-11T04:06:16.390Z
-description: テスト投稿です。
+date: 2019-04-11T04:21:49.268Z
+description: this is netlify com test
 ---
-# test
+画像を添付
 
 
 
-テスト投稿です
-
-
-
-[jp.creativesurvey.com](jp.creativesurvey.com)
+![](/img/about-direct-sourcing.jpg)
